@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Quang
-- 👀 I’m interested in bioinformatics, data science
 - 🌱 I’m currently learning Python
 
 <!---
